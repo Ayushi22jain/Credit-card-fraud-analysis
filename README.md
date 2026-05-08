@@ -17,3 +17,5 @@ Checked accurecy and precision by confusion matrix using logistic regression, Ra
 
 
 
+
+
