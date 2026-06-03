@@ -4,7 +4,6 @@
 
 
 
-
 This repository contains a comprehensive analysis and machine learning pipeline for detecting fraudulent credit card transactions. The primary focus of this project is addressing the challenges posed by highly imbalanced datasets typical in financial fraud detection.
 
 ## 🚀 Project Overview
